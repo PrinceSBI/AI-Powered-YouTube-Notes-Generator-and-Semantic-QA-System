@@ -1,3 +1,5 @@
+To run the app: streamlit run app.py
+
 # AI-Powered-YouTube-Notes-Generator-and-Semantic-QA-System
 Technologies: Python, Streamlit, Gemini AI, ChromaDB, YouTubeTranscriptAPI
 
